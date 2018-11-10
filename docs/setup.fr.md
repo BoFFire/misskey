@@ -8,7 +8,7 @@ Ce guide décrit les étapes à suivre pour installer et configurer votre instan
 
 ----------------------------------------------------------------
 
-*1.* Créez u utilisateur Misskey
+*1.* Créez un utilisateur Misskey
 ----------------------------------------------------------------
 Running misskey on root is not a good idea so we create a user for that.
 Sur Debian, à titre d'exemple :
