@@ -67,10 +67,10 @@ L'accent est mis sur "👍 " par défaut.
 	</tbody>
 </table>
 
-## Réaction et touches numériques
+## Pavé numérique et réactions
 <table>
 	<thead>
-		<tr><th>Les touches de nombre de</th><th>Réaction</th></tr>
+		<tr><th>Nombres</th><th>Réaction</th></tr>
 	</thead>
 	<tbody>
 		<tr><td><kbd class="key">1</kbd></td><td>👍</td></tr>
