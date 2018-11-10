@@ -45,7 +45,7 @@
 	</thead>
 	<tbody>
 		<tr><td><kbd class="key">Enter</kbd></td><td>Renoteする</td><td>-</td></tr>
-		<tr><td><kbd class="key">Q</kbd></td><td>Elargi le formulaire</td><td><b>Q</b>uote</td></tr>
+		<tr><td><kbd class="key">Q</kbd></td><td>Citer</td><td><b>Q</b>uote</td></tr>
 		<tr><td><kbd class="key">Esc</kbd></td><td>Ferme le formulaire</td><td>-</td></tr>
 	</tbody>
 </table>
@@ -82,20 +82,20 @@ L'accent est mis sur "👍 " par défaut.
 		<tr><td><kbd class="key">7</kbd></td><td>💢</td></tr>
 		<tr><td><kbd class="key">8</kbd></td><td>😥</td></tr>
 		<tr><td><kbd class="key">9</kbd></td><td>😇</td></tr>
-		<tr><td><kbd class="key">0</kbd></td><td>🍮 or 🍣</td></tr>
+		<tr><td><kbd class="key">0</kbd></td><td>🍮 ou 🍣</td></tr>
 	</tbody>
 </table>
 
-## デッキ
+## Deck
 <table>
 	<thead>
-		<tr><th>Raccourci</th><th>Effet</th><th>由来</th></tr>
+		<tr><th>Raccourci</th><th>Effet</th><th>Origine</th></tr>
 	</thead>
 	<tbody>
-		<tr><td>投稿にフォーカスした状態で<kbd class="group"><kbd class="key">Shift</kbd> + <kbd class="key">↑</kbd></kbd></td><td>上のカラムにフォーカス</td><td>-</td></tr>
-		<tr><td>投稿にフォーカスした状態で<kbd class="group"><kbd class="key">Shift</kbd> + <kbd class="key">↓</kbd></kbd></td><td>下のカラムにフォーカス</td><td>-</td></tr>
-		<tr><td>投稿にフォーカスした状態で<kbd class="group"><kbd class="key">Shift</kbd> + <kbd class="key">→</kbd></kbd></td><td>右のカラムにフォーカス</td><td>-</td></tr>
-		<tr><td>投稿にフォーカスした状態で<kbd class="group"><kbd class="key">Shift</kbd> + <kbd class="key">←</kbd></kbd></td><td>左のカラムにフォーカス</td><td>-</td></tr>
+		<tr><td>Avec l'accent mis sur le post<kbd class="group"><kbd class="key">Shift</kbd> + <kbd class="key">↑</kbd></kbd></td><td>Focus sur la colonne du haut</td><td>-</td></tr>
+		<tr><td>Avec l'accent mis sur le post<kbd class="group"><kbd class="key">Shift</kbd> + <kbd class="key">↓</kbd></kbd></td><td>Focus sur la colonne du bas</td><td>-</td></tr>
+		<tr><td>Avec l'accent mis sur le post<kbd class="group"><kbd class="key">Shift</kbd> + <kbd class="key">→</kbd></kbd></td><td>L'accent sur la colonne de droite</td><td>-</td></tr>
+		<tr><td>Avec l'accent mis sur le post<kbd class="group"><kbd class="key">Shift</kbd> + <kbd class="key">←</kbd></kbd></td><td>L'accent sur la colonne de gauche</td><td>-</td></tr>
 	</tbody>
 </table>
 
