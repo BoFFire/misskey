@@ -1,7 +1,7 @@
 # Les raccourcis clavier
 
-## Raccourcis génériques
-これらのショートカットは基本的にどこでも使えます。
+## Raccourcis clavier globaux
+Ces raccourcis peuvent être utilisés n'importe où sur Misskey.
 <table>
 	<thead>
 		<tr><th>Raccourci</th><th>Effet</th><th>Origine</th></tr>
@@ -17,7 +17,7 @@
 	</tbody>
 </table>
 
-## 投稿にフォーカスされた状態
+## Lorsque le focus est mit sur une publication
 <table>
 	<thead>
 		<tr><th>Raccourci</th><th>Effet</th><th>Origine</th></tr>
